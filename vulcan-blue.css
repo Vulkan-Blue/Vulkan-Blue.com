@@ -1,0 +1,34 @@
+h2{color: rgb(0, 204, 255);
+   }
+p.cr{color: blue;}
+div.lin{
+    text-align: center;
+}
+a.qs{
+    color: black;
+    background-color:  rgb(119, 0, 255);
+  padding: 10px;
+
+display: inline-block;
+margin: 50px;
+}
+a.dds{
+    color: black;
+    background-color: rgb(119, 0, 255);
+    padding: 10px;
+  
+  display: inline-block;
+  margin: 50px;  
+}
+a.hp{
+    
+    color: black;
+    background-color:  rgb(119, 0, 255);
+    padding: 10px;
+  
+  display: inline-block;
+  margin: 50px; 
+}
+h2{
+text-align: center;
+}
